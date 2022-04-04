@@ -1,0 +1,30 @@
+html body {
+    margin: 55px;
+  }
+  
+  #titulo h1 {
+    background-color: rgb(240,77,0);
+    color: white;
+    display: flex;
+    flex-direction: center;
+    justify-content: center;
+    margin: 0px;
+    height: 27px;
+    font-size: 20px;
+  }
+  
+  .fundo-roxo{
+    background-color: rgb(89,94,150);
+    height: 520px;
+    margin: 0px;
+  }
+  
+  #logo img {
+    display: flex;
+    flex-direction: center;
+    justify-content: center;
+    height: 80px;
+    margin: 0px;
+  }
+  
+  
